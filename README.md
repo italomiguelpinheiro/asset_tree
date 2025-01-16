@@ -1,10 +1,7 @@
 # TRACTIAN Challenges - Asset Tree Mobile
 
 ## 📋 Descrição  
-Este projeto consiste em um aplicativo de gerenciamento de ativos que permite:  
-- Funcionalidade offline;  
-- Otimizações de desempenho no processamento de dados e inserções no banco de dados;  
-- Busca eficiente em uma árvore de ativos com "early stop" para acelerar a filtragem.
+Este projeto consiste em um aplicativo de gerenciamento de ativos.
 
 ---
 
