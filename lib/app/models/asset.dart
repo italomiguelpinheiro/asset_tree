@@ -25,4 +25,15 @@ class Asset {
       status: json['status'],
     );
   }
+
+  Map<String, dynamic> toJson() {
+    return {
+      'id': id,
+      'name': name,
+      'locationId': locationId,
+      'parentId': parentId,
+      'sensorType': sensorType,
+      'status': status,
+    };
+  }
 }
